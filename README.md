@@ -1,4 +1,4 @@
-##2048 Game
+# 2048 Game
 
 2048 Game is a classic single-player puzzle game where the main goal is to combine numbered tiles on a 4×4 grid to reach the tile with the value 2048.
 The player moves tiles in four directions (up, down, left, right). When two tiles with the same number collide, they merge into one with their combined value. The game requires logical thinking, planning moves ahead, and strategy to achieve the highest possible score.
@@ -7,7 +7,7 @@ The project demonstrates core concepts of game logic, state management, and user
 
 Experience the live website: 2048 Game
 
-##Technologies Used
+# Technologies Used
 
 - JavaScript (ES6+) – implementation of game logic, including tile movement, merging rules, score calculation, game state management, and keyboard controls
 
@@ -19,7 +19,7 @@ Experience the live website: 2048 Game
 
 - Keyboard Events (keydown) – handling player input via arrow keys
 
-##Setup & Installation
+# Setup & Installation
 
 Follow these steps to run the project locally:
 
@@ -28,16 +28,12 @@ git clone https://github.com/viktoriamyhailiak/2048-game.git
 cd 2048-game
 
 2. Install dependencies
-npm install
-# or
-yarn install
+npm install or yarn install
 
 3. Run the project locally
-npm start
-# or
-yarn start
+npm start or yarn start
 
-##Features
+# Features
 
 Classic 2048 gameplay on a 4×4 grid
 
