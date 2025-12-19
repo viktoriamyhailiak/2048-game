@@ -5,7 +5,7 @@ The player moves tiles in four directions (up, down, left, right). When two tile
 
 The project demonstrates core concepts of game logic, state management, and user interaction in a simple and intuitive interface.
 
-Experience the live website: 2048 Game
+Experience the live website: [2048 Game](https://viktoriamyhailiak.github.io/2048-game/)
 
 # Technologies Used
 
@@ -24,7 +24,7 @@ Experience the live website: 2048 Game
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone https://github.com/viktoriamyhailiak/2048-game.git
+git clone https://github.com/viktoriamyhailiak/2048-game.git,
 cd 2048-game
 
 2. Install dependencies
